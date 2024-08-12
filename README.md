@@ -30,6 +30,6 @@ Optimized YOLO model parameters to improve detection accuracy and minimize false
 Final Model Selection:
 Selected the best-performing YOLO model based on precision, recall, and overall accuracy. Used this model for final predictions and analysis of the hurricane’s impact.
 
-<a href="Rentals_prediction_Divvy.ipynb">Download the Jupyter file</a> 
+<a href="A1_Team2_Chuys_Latino_Group.ipynb">Download the Jupyter file</a> 
 
-<a href="Rentals_prediction_Divvy.html">View project in HTML</a>
+<a href="A1_Team2_Chuys_Latino_Group.html">View project in HTML</a>
