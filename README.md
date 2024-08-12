@@ -2,7 +2,7 @@
 
 **Objective**
 
-The primary objective of this project was to analyze and predict the environmental impact of Hurricane Maria using Sentinel-2 satellite data. By employing advanced image analysis and machine learning techniques, we aimed to identify the regions most affected by the hurricane and build predictive models to enhance disaster response strategies.
+The primary objective of this project was to analyze and predict the environmental impact of Hurricane Maria using Sentinel-2 satellite data provided by NASA. By employing advanced image analysis and machine learning techniques, we aimed to identify the regions most affected by the hurricane and build predictive models to enhance disaster response strategies.
 
 **Datasets**
 
