@@ -1,4 +1,4 @@
-# Predictive Analysis of Hurricane Maria's Impact
+# Predictive Analysis of Hurricane Maria's Impact (Team Project)
 
 **Objective**
 
@@ -32,6 +32,14 @@ Optimized YOLO model parameters to improve detection accuracy and minimize false
 
 Final Model Selection:
 Selected the best-performing YOLO model based on precision, recall, and overall accuracy. Used this model for final predictions and analysis of the hurricane’s impact.
+
+**My contributions:**
+
+Image Labeling: Labeled over 25 pre- and post-event images to prepare them for modeling.
+Analysis and Code: Assisted in developing and documenting the analysis, ensuring clear and concise explanations of the steps taken.
+Model Development: Contributed to building a Yolo model using 50 epochs to detect objects in the satellite images.
+
+
 
 <a href="A1_Team2_Chuys_Latino_Group.ipynb">Download the Jupyter file</a> 
 
