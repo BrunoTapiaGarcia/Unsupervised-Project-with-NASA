@@ -36,7 +36,9 @@ Selected the best-performing YOLO model based on precision, recall, and overall 
 **My contributions:**
 
 Image Labeling: Labeled over 25 pre- and post-event images to prepare them for modeling.
+
 Analysis and Code: Assisted in developing and documenting the analysis, ensuring clear and concise explanations of the steps taken.
+
 Model Development: Contributed to building a Yolo model using 50 epochs to detect objects in the satellite images.
 
 
